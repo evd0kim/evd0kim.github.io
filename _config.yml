@@ -2,7 +2,7 @@ title: Dr. Evdokimov, Ilya
 description: Personal page
 baseurl: ""
 url: "https://evd0kim.github.io"
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: minimal
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -23,6 +23,6 @@ whitelist:
 project1: https://satsbridge.github.io
 project2: https://standardsats.github.io
 project3: https://valet.finance
-telegram: https://t.me/StandardSatsCommunity
-medium: https://t.me/StandardSatsCommunity
+telegram: https://t.me/notgeld
+medium: https://notgeld.medium.com/
 email: mailto:evdokimov.ilya@gmail.com
