@@ -1,1 +1,19 @@
-theme: minima
+title: Dr. Evdokimov, Ilya
+description: Personal page
+baseurl: ""
+url: "https://evd0kim.github.io"
+remote_theme: pages-themes/minimal@v0.2.0
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+plugins:
+  - jekyll-theme-minimal
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+whitelist:
+  - jekyll-theme-minimal
+  - jekyll-redirect-from
