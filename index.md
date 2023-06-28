@@ -14,7 +14,13 @@ permalink: /
 
 Researcher, Bitcoin and Lightning Network are in my focus.
 
-### I am up to SatsBridge
+### What I am up to Right Now
 
+I build SatsBridge which is a technology for tokenization of Lightning Network 
+satoshis on other chains and Layer 2 protocols. 
+
+### Previous Projects
+
+Thothpay, Standard Sats, Valet. 
 
 [PGP PUBLIC KEY](/pgp)
