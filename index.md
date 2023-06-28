@@ -10,6 +10,6 @@ title: "Dr Evdokimov, Ilya"
 permalink: /
 ---
 
-## Dr Evdokimov, Ilya Personal Page
+## Dr Evdokimov, Ilya
 
 ### Ongoing Project SatsBridge
