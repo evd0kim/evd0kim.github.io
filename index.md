@@ -6,6 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: "Dr Evdokimov, Ilya"
+permalink: /
 ---
 
-This is another test
+## Dr Evdokimov, Ilya Personal Page
+
+### Ongoing Project [SatsBridge]("http://satsbridge.github.io/")
