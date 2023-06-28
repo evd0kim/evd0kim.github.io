@@ -12,4 +12,8 @@ permalink: /
 
 ## Dr Evdokimov, Ilya
 
-### Ongoing Project SatsBridge
+Researcher, Bitcoin and Lightning Network are in my focus.
+
+### I am up to SatsBridge
+
+<p><a target="_blank" href="/pgp">PGP</a></p>
