@@ -16,4 +16,4 @@ Researcher, Bitcoin and Lightning Network are in my focus.
 
 ### I am up to SatsBridge
 
-<p><a href="/pgp">PGP</a></p>
+[PGP PUBLIC KEY](/pgp)
