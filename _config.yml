@@ -17,3 +17,8 @@ plugins:
 whitelist:
   - jekyll-theme-minimal
   - jekyll-redirect-from
+
+
+# project links:
+project1: https://satsbridge.github.io
+telegram: https://t.me/StandardSatsCommunity

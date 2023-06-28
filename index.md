@@ -12,4 +12,4 @@ permalink: /
 
 ## Dr Evdokimov, Ilya Personal Page
 
-### Ongoing Project [SatsBridge]("http://satsbridge.github.io/")
+### Ongoing Project SatsBridge
